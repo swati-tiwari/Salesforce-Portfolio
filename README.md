@@ -13,10 +13,10 @@ Hello! Thanks for checking out the repo for my latest portfolio website. This we
 - [Sublime Text 3](https://www.sublimetext.com/3) my ride-or-die
 - [Github Pages](https://pages.github.com/) for easy push-to-deploy hosting
 - [Jekyll](https://jekyllrb.com/) for a static site generator
-- [Sass](http://sass-lang.com/) for less time-consuming and more modular CSS
-- [Bourbon](http://bourbon.io/) for sass mixins
-- [Gulp](http://gulpjs.com/) for an automated and enhanced workflow
-- [Flaticon](http://www.flaticon.com/) for images
+- [Sass](https://sass-lang.com/) for less time-consuming and more modular CSS
+- [Bourbon](https://bourbon.io/) for sass mixins
+- [Gulp](https://gulpjs.com/) for an automated and enhanced workflow
+- [Flaticon](https://www.flaticon.com/) for images
 - [Unsplash](https://unsplash.com/) for stock photos
 - [Skrollr.js](https://github.com/Prinzhorn/skrollr) for parallax effects
 - [Formspree](https://formspree.io/) for a simple, sans-PHP contact form

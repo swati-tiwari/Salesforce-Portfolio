@@ -10,7 +10,7 @@
     - thing: Spotify API
 
 # - title: Weather Widget
-#   demo: http://quiet-dusk-89245.herokuapp.com/
+#   demo: https://quiet-dusk-89245.herokuapp.com/
 #   code: https://github.com/bchiang7/DemoWebApp
 #   description: A simple weather app I made at HubSpot's Fall 2016 Web App Workshop utilizing Node.js, Express, and Heroku. I used the OpenWeatherMap API to get weather and forecast data, and then used the current city's coordinates to create a map background that reflected the current city using the Google Maps API.
 #   img: weather
@@ -37,7 +37,7 @@
   - thing: Cordova
 
 - title: Online Resume
-  demo: http://brittanychiang.com/react-profile/
+  demo: https://brittanychiang.com/react-profile/
   code: https://github.com/bchiang7/react-profile/
   description: This is just an online version of my resume I made for fun. I was interested in learning React.js, so I found this <a href="https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc#.1439cdewq">simple tutorial</a> and it kind of spun into this weekend project. I probably didn't need to use React at all, but hey, at least I learned a few things!
   img: resume
@@ -47,7 +47,7 @@
   - thing: CSS
 
 - title: Old Personal Website
-  demo: http://brittanychiang.com/v1
+  demo: https://brittanychiang.com/v1
   code: https://github.com/bchiang7/website_2015/
   description: This was my first portfolio website I built in 2014. It's a simple one-pager like this one, but relied heavily on Bootstrap. Since then, I think my web development and design skills have expanded immensely.
   img: websitev1
@@ -59,7 +59,7 @@
   - thing: jQuery
 
 - title: CourseSource
-  demo: http://webdevspring2016-chiangbrittany.rhcloud.com/project/client/#/login
+  demo: https://webdevspring2016-chiangbrittany.rhcloud.com/project/client/#/login
   code: https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project
   description: CourseSource is a web application built on the MEAN (MongoDB, Express, Angular, Node) stack for my web development class in 2015. I created this web app with the intention of providing Northeastern Students a better experience browsing the courses offered at Northeastern (which is currently a painstakingly tedious task on our current student portal).
   img: coursesource
@@ -75,7 +75,7 @@
     - thing: MongoDB
 
 - title: NU Women in Tech
-  demo: http://nuwit.ccs.neu.edu/
+  demo: https://nuwit.ccs.neu.edu/
   code: https://github.com/nuwit/website
   description: While serving as web chair for Northeastern University Women in Technology, I did a complete overhaul of the club website. I designed and developed the current website using Jekyll as a static site generator, and was responsible for the upkeeping and maintainence of the site.
   img: nuwit
@@ -89,7 +89,7 @@
     - thing: jQuery
 
 - title: Fontipsums
-  demo: http://brittanychiang.com/fontipsums
+  demo: https://brittanychiang.com/fontipsums
   code: https://github.com/bchiang7/fontipsums
   description: As a typography nerd, I wanted a way to visually see different font combinations together. I whipped up this simple website to display some of my favorite pairings combined with some fun lorem ipsum variations I found on the web. Over the course of creating this site, I learned a lot about web fonts and best practices.
   img: fontipsums
@@ -98,8 +98,8 @@
     - thing: SCSS
 
 - title: One Card For All
-  demo: http://onecardforall.org
-  description: At MullenLowe, I helped build this 2015 holiday site around an algorithm that generated a holiday greeting to each and every person on the planet. We also accounted for newcomers being added at an amazing rate. Overall, the website is a tranquil, animated experience. As new names appear, visitors can watch them fall, like snowflakes, onto a stylized world map. Users can also find their own name and see it as part of the world collective. Check out this short <a href="http://us.mullenlowe.com/work/one-card-for-all/" target="_blank">video</a> describing the project!
+  demo: https://onecardforall.org
+  description: At MullenLowe, I helped build this 2015 holiday site around an algorithm that generated a holiday greeting to each and every person on the planet. We also accounted for newcomers being added at an amazing rate. Overall, the website is a tranquil, animated experience. As new names appear, visitors can watch them fall, like snowflakes, onto a stylized world map. Users can also find their own name and see it as part of the world collective. Check out this short <a href="https://us.mullenlowe.com/work/one-card-for-all/" target="_blank">video</a> describing the project!
   img: onecard
   used:
     - thing: HTML
@@ -109,7 +109,7 @@
 
 - title: JetBlue HumanKinda
   demo: https://us.mullenlowe.com/work/humankinda/
-  description: During my first co-op as a creative technologist at Mullen Lowe, I played a major role in the development of this Tumblr site to complement JetBlue's HumanKinda campaign and documentary. The site houses the video documentary at the top, the many graphics created by Mullen for the campaign, and an interactive quiz to determine how "HumanKinda" you are. Learn more about this project <a href="http://us.mullenlowe.com/work/humankinda/" target="_blank">here</a>!
+  description: During my first co-op as a creative technologist at Mullen Lowe, I played a major role in the development of this Tumblr site to complement JetBlue's HumanKinda campaign and documentary. The site houses the video documentary at the top, the many graphics created by Mullen for the campaign, and an interactive quiz to determine how "HumanKinda" you are. Learn more about this project <a href="https://us.mullenlowe.com/work/humankinda/" target="_blank">here</a>!
   img: humankinda
   used:
     - thing: HTML
