@@ -9,17 +9,17 @@ cover: https://brittanychiang.com/v2/img/og.jpg
 logo: https://brittanychiang.com/v2/img/logo-black.png
 resume: https://brittanychiang.com/v2/resume.pdf
 social:
-  - title: email
+  - title: Email
     url: mailto:swatitiwari04@gmail.com
-  - title: twitter
+  - title: X
     url: https://twitter.com/swati_tiwari
-  - title: instagram
-    url: https://instagram.com/bchiang7
   - title: Trailhead
     url: https://trailblazer.me/swatitiwarii
-  - title: github
+  - title: Github
     url: https://github.com/swati-tiwari
-  - title: linkedin
+  - title: Linkedin
+    url: https://www.linkedin.com/in/swatitiwari09
+  - title: Trailblazer
     url: https://www.linkedin.com/in/swatitiwari09
 
 # Build settings
