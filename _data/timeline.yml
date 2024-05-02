@@ -1,51 +1,56 @@
-- position: Northeastern University
-  company: NU College of Computer &amp; Information Science
-  url: https://www.ccis.northeastern.edu/program/information-science-bs/
-  description: Candidate for Bachelor of Science in Information Science with a concentration in Human Computer Interaction (HCI) and a minor in Interaction Design. <strong>Graduating in May 2018.</strong>
-  sprite: university
-  date: 2013 - Present
+- position: Associate System Engineer | ILP
+  company: Tata Consultancy Services
+  url: https://www.tcs.com/careers/india/xplore
+  description: During the ILP Training program focused on Enstol Oracle Apps, I underwent a comprehensive curriculum covering both personality development and technical skills enhancement. This included learning key programming languages and technologies such as Java, UNIX, Oracle, SQL, and PLSQL, providing a solid foundation for professional growth. As part of the training, I applied my newfound skills to develop a customized Oracle App tailored for Hotel Management, gaining practical experience and deepening my understanding of software development within the Oracle ecosystem.
+  date: Sept 2016 - Dec 2016
 
-- position: HCI Research Assistant
-  company: NU College of Computer &amp; Information Science
-  url: https://www.ccis.northeastern.edu/
-  description: Assisted a computer science PhD student in the development of a software prototype built with HTML, CSS, JavaScript, and jQuery to facilitate better understanding of parent-child communication preferences in low-SES (Socio-Economic Status) families. Developed remotely to meet weekly deadlines and project checkpoints.
-  sprite: research
-  date: Mar - May 2015
+- position: Associate System Engineer
+  company: Tata Consultancy Services
+  url: https://www.tcs.com/
+  description: I underwent comprehensive training covering QAD, MFGPRO, and Progress 4GL, delving into the intricacies of Manufacturing, Distribution, and Finance modules within the QAD system. The training program equipped me with programming techniques essential for developing robust modules, emphasizing in-depth understanding through the creation and execution of test cases. As part of the training, I honed my skills in developing inquiry reports using Progress 4GL language, ensuring a thorough grasp of programming concepts and practical application within the context of QAD and MFGPRO systems.
+  date: Dec 2016 - May 2017
 
-- position: Creative Technologist Co-op
-  company: MullenLowe U.S.
-  url: https://us.mullenlowe.com/
-  description: Developed and maintained code for in-house and client websites. Tested front-end code in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness. Collaborated closely with other developers and digital producers to meet deadlines for clients including Lovesac, U.S. Cellular, JetBlue, and more.
+- position: QAD Developer
+  company: Tata Consultancy Services
+  url: https://www.tcs.com/
+  description: In my role as a QAD Developer and Techno-Functional Consultant, I spearheaded the migration of outdated versions of MFG/PRO to the eb2 version, unifying business processes onto a common platform. This encompassed implementing MFGPRO across Distribution, Manufacturing, and Finance modules to seamlessly integrate with external systems. My responsibilities involved conducting QAD Development using Progress 4GL language, collaborating with clients to understand requirements and provide estimates for Work Order completion. 
+  
+  Additionally, I developed workflows, Test Cases, and conducted Unit Testing, along with participating in End-to-End testing to identify and rectify issues while managing Exception Handling processes. I collaborated with engineering teams to assess system loads, devise improvement strategies, and address root causes of recurring issues. Moreover, I managed various third-party vendor applications such as Esker, FacturaYa, GoSocket, and Cyberquery, while also conducting Smoke Testing post-upgrade and generating client reports using Cyberquery and BI Solution for QAD.
+  date: May 2017 - Jul 2018
+
+- position: Junior Salesforce Developer
+  company: Tata Consultancy Services
+  url: https://www.tcs.com/
+  description: As a Junior Salesforce Developer, I actively contributed to the design, development, and implementation of tailored solutions within the Salesforce platform. Under the guidance of senior team members, I collaborated closely with business analysts and project managers to gather and analyze requirements, ensuring alignment with organizational goals. Utilizing my growing proficiency in Apex, Visualforce, Lightning Components, and other Salesforce tools, I assisted in crafting custom applications and integrations, while rigorously testing and debugging to ensure optimal functionality. Additionally, I provided support and maintenance, swiftly addressing issues to enhance system performance. With a Bachelor's degree in computer science or related field, I brought enthusiasm and a willingness to learn, positioning myself as a valuable asset to the Salesforce development team.
   sprite: industry
-  date: July - Dec 2015
+  date: Jul 2018 - Feb 2019
 
-- position: HCI Teaching Assistant
-  company: NU College of Computer &amp; Information Science
-  url: https://www.ccis.northeastern.edu/
-  description: Assisted professor with grading homework and project assignments. Held office hours to aid students in their understanding of core HCI concepts and reported to the professor the extent of their understanding.
-  sprite: academic
-  date: Jan - May 2016
-
-- position: President
-  company: NU Women in Tech
-  url: https://nuwit.ccs.neu.edu
-  description: Lead weekly club meetings to foster a community of diverse women in CS. Manage a variety of academic and social activities throughout the semester, including tech talks, student panels, and workshops. Communicate regularly with e-board and administrative organizations.
-  sprite: university
-  date: May 2016 - Present
-
-- position: Software Engineer Co-op
-  company: Starry
-  url: https://starry.com/
-  description: Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette, and CSS. Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station. Worked closely with designers and other developers to ensure thoughtful and coherent user experiences across Starry’s mobile apps.
+- position: Salesforce Developer
+  company: Tata Consultancy Services
+  url: https://www.tcs.com/
+  description: I served as a Salesforce Developer and Analyst for a Fortune Global 500 US-based Manufacturing company, supporting over 5000 users by designing solutions for their daily challenges and addressing end-user issues. My responsibilities included resolving technical issues across Configuration, Apex, Visualforce, and Lightning Components, collaborating with the CRM Team to identify inefficiencies and craft scalable solutions to drive sales growth. Working closely with business analysts, I conducted detailed analyses of business and technical requirements, customizing Salesforce objects accordingly. I developed various custom objects, workflows, formula fields, and relationships, along with roles, profiles, and security measures to ensure data integrity. 
+  
+  Additionally, I automated business processes using workflows, process builders, and approval processes, eliminating the need for custom code. Managing interfaces between Mfgpro and Salesforce, I designed and implemented various components tailored to application requirements, including data migration using Data Loader and Import Wizard. My role also involved creating reports and dashboards to provide valuable insights for clients.
   sprite: industry
-  date: July - Dec 2016
+  date: Feb 2019 - May 2021
 
-- position: Developer
-  company: Scout Studio
-  url: https://www.northeastern.edu/scout/
-  description: Collaborated with a small team of student designers to spearhead a new design system for Scout’s first annual student-led design conference at Northeastern. Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript.
-  sprite: university
-  date: Jan 2017 - Present
+- position: Salesforce Consultant & Business Analyst
+  company: Capgemini
+  url: https://www.capgemini.com/
+  description: I've worked as a Salesforce Consultant, offering tailored solutions in Salesforce Technology to address the diverse business needs of industries such as Manufacturing, E-Commerce, and Healthcare. My role involved collaborating with clients to enhance engagement and adoption of Salesforce across Sales, Community, Marketing, and Service functions. Additionally, I provided expert technology consulting to assist businesses in leveraging Salesforce for streamlined operations. Responsibilities included leading the development of new functionalities, redesigning interfaces with Lightning, and facilitating migration from Classic while creating custom Lightning screens. 
+  
+  Acting as both a Business Analyst and Scrum Master, I drove kickoff and discovery sessions, gathered requirements, and mediated between stakeholders and delivery teams to streamline Agile processes. I've been recognized for delivering effective solutions, maintaining availability, and conducting comprehensive End User Training. Handling deployment and version control using DevOps tools like Copado, GitHub, and Jenkins, I ensured smooth project execution. With a customer satisfaction rating of 4.6 out of 5, I've demonstrated my commitment to delivering exceptional results. Moreover, I've been actively involved in training and mentoring young Salesforce enthusiasts to enhance their proficiency with the platform.
+  sprite: industry
+  date: May 2021 - June 2022
+
+- position: Senior Salesforce Developer & Technical Lead
+  company: PricewaterhouseCoopers (PwC)
+  url: https://www.pwc.com/
+  description: In my role as a Salesforce Technical Lead and Developer, I've been instrumental in driving success for three Fortune 500 companies through the creation of tailored components and the implementation of dynamic integration solutions. My responsibilities span a wide range of activities, including crafting and customizing Salesforce applications using various technologies like Apex, Visualforce, JavaScript, SQL, SOAP, and REST. I streamline processes by leveraging automation tools such as Process Builder, Workflows, and Formulas, and ensure smooth data migration and integration using tools like Data Loader and Jitterbit. I continuously assess and improve system functionality while meticulously documenting technical aspects. 
+  
+  Additionally, I administer third-party applications and provide frontline support to users. Collaborating closely with cross-functional teams, I lead stakeholder meetings to troubleshoot issues and devise effective solutions. I take ownership of Salesforce development projects from conception to completion, setting clear objectives and coordinating tasks efficiently. Designing, testing, and deploying innovative applications, I strive to ensure seamless operations while facilitating comprehensive staff training and providing detailed documentation. Thorough testing, including User Acceptance Testing (UAT), is integral to maintaining application reliability and performance.
+  sprite: industry
+  date: June 2022 - Present
 
 # - position: UI Engineer Co-op
 #   company: Apple
