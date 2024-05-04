@@ -3132,3 +3132,80 @@ img#nu-logo {
     -webkit-animation: spin 1s linear infinite;
     animation: spin 1s linear infinite;
 }
+
+/* ======= Waypoints ======= */
+
+.wp1,
+.wp2,
+.wp3,
+.wp3-1,
+.wp3-2,
+.wp3-3,
+.wp3-4,
+.wp3-5,
+.wp4,
+.wp5,
+.wp6 {
+    visibility: hidden;
+}
+
+.bounceIn,
+.bounceInLeft,
+.bounceInRight,
+.bounceInDown,
+.fadeIn,
+.fadeInUp,
+.fadeInUpDelay,
+.fadeInDown,
+.fadeInLeft,
+.fadeInRight,
+.slideInUp,
+.slideInDown,
+.slideInLeft,
+.slideInRight,
+.zoomIn,
+.swing,
+.pulse,
+.bounce,
+.progress1-delay,
+.progress2-delay,
+.progress3-delay,
+.progress4-delay,
+.progress5-delay {
+    visibility: visible;
+}
+
+.delay-01s {
+    animation-delay: 0.1s;
+    -webkit-animation-delay: 0.1s;
+}
+
+.delay-02s {
+    animation-delay: 0.2s;
+    -webkit-animation-delay: 0.2s;
+}
+
+.delay-025s {
+    animation-delay: 0.25s;
+    -webkit-animation-delay: 0.25s;
+}
+
+.delay-05s {
+    animation-delay: 0.5s;
+    -webkit-animation-delay: 0.5s;
+}
+
+.delay-1s {
+    animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+}
+
+.delay-4s {
+    animation-delay: 4s;
+    -webkit-animation-delay: 4s;
+}
+
+.delay-4-5s {
+    animation-delay: 4.5s;
+    -webkit-animation-delay: 4.5s;
+}

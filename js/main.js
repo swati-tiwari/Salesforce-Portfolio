@@ -14,7 +14,6 @@ $(document).ready(function () {
 		offset: '50%'
 	});*/
 
-
   function t() {
     $(".section").each(function () {
       var t = $('#dot-nav a[href="#' + $(this).attr("id") + '"]').data(
