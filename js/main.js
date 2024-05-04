@@ -2,7 +2,7 @@
 $(document).ready(function () {
     /*******Skill Set ******/
     /* Experience */
-	$('.wp3').waypoint(function() {
+	/*$('.wp3').waypoint(function() {
 		$('.wp3').addClass('animated fadeIn');
 		$('.skills-bar-container').addClass('animated fadeIn');
         $('.wp3-1').addClass('progress1-delay');
@@ -12,7 +12,7 @@ $(document).ready(function () {
         $('.wp3-5').addClass('progress5-delay');
 	}, {
 		offset: '50%'
-	});
+	});*/
 
   function t() {
     $(".section").each(function () {
