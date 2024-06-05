@@ -7,7 +7,8 @@ baseurl: ""
 email: swatitiwari04@gmail.com
 cover: https://brittanychiang.com/v2/img/og.jpg
 logo: https://brittanychiang.com/v2/img/logo-black.png
-resume: https://brittanychiang.com/v2/resume.pdf
+resume: resume.pdf
+coverletter: cover-letter.pdf
 social:
   - title: email
     url: mailto:swatitiwari04@gmail.com
