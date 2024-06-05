@@ -1791,6 +1791,14 @@ ul.social-buttons li a:active {
     background-color: #3B5998;
 }
 
+#trailblazer:hover {
+    background-color: #3B5998;
+}
+
+#trailhead:hover {
+    background-color: #3B5998;
+}
+
 #twitter:hover {
     background-color: #55ACEE;
 }
