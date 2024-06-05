@@ -193,7 +193,7 @@ ul {
     margin: 30px 0;
     width: 100px;
     height: 2px;
-    background-color: #00b7c7
+    background-color: #011842
 }
 
 .section .overlay-wrapper .center,
@@ -405,7 +405,7 @@ ul {
 }
 
 #dot-nav a.is-selected .dot {
-    background-color: #00b7c7
+    background-color: #011842
 }
 
 #dot-nav .dot {
@@ -664,7 +664,7 @@ ul {
     overflow: hidden;
     color: #f2f2f2;
     position: relative;
-    background: #00909c;
+    background: #011842;
     font-family: Gotham, Helvetica, Arial, sans-serif;
     font-size: 1em;
     font-weight: 700;
@@ -677,7 +677,7 @@ ul {
 
 .block-btn:focus,
 .block-btn:hover {
-    background: #00b7c7;
+    background: #011842;
     transition: all .3s ease
 }
 
@@ -1508,7 +1508,7 @@ ul {
     left: calc(50% - 1px);
     height: 100%;
     width: 2px;
-    background: #00b7c7
+    background: #011842
 }
 
 @media only screen and (max-width:1000px) {
@@ -1729,7 +1729,7 @@ ul {
 
 #experience-section .experience-wrapper #timeline .timeline-block .timeline-content:focus+.timeline-img,
 #experience-section .experience-wrapper #timeline .timeline-block .timeline-content:hover+.timeline-img {
-    background: #00b7c7
+    background: #011842
 }
 
 #experience-section .experience-wrapper #timeline .timeline-block .timeline-content:before {
@@ -1776,7 +1776,7 @@ ul {
 }
 
 #experience-section .experience-wrapper #timeline .timeline-block .timeline-content .company a {
-    color: #00b7c7;
+    color: #011842;
     display: inline;
     transition: all .3s ease
 }
@@ -1833,7 +1833,7 @@ ul {
     display: block;
     margin: 0 auto;
     border-color: transparent;
-    border-top-color: #00b7c7;
+    border-top-color: #011842;
     border-style: solid;
     border-width: 15px 7px 0;
     width: 0;
@@ -2083,10 +2083,10 @@ ul {
 #portfolio-section .portfolio-row .description-title-container .description-buttons a {
     padding: 10px 15px;
     background: 0 0;
-    border: 2px solid #00b7c7;
+    border: 2px solid #011842;
     border-radius: 3px;
     margin: 0 5px;
-    color: #00b7c7;
+    color: #011842;
     font-family: Gotham, Helvetica, Arial, sans-serif;
     font-weight: 500;
     text-transform: uppercase;
@@ -2111,7 +2111,7 @@ ul {
 
 #portfolio-section .portfolio-row .description-title-container .description-buttons a:focus,
 #portfolio-section .portfolio-row .description-title-container .description-buttons a:hover {
-    background: #00b7c7;
+    background: #011842;
     color: #f2f2f2
 }
 
@@ -2262,7 +2262,7 @@ ul {
 }
 
 #contact-section .form-wrapper .input-wrapper:after {
-    background-color: #00b7c7;
+    background-color: #011842;
     content: "";
     position: absolute;
     display: block;
@@ -2318,7 +2318,7 @@ ul {
 }
 
 #contact-section .form-wrapper .is-active .input-label {
-    color: #00b7c7
+    color: #011842
 }
 
 #contact-section .form-wrapper .is-completed .input-label {
@@ -2343,9 +2343,9 @@ ul {
     line-height: 1.5;
     padding: 12px 20px 10px;
     margin: 70px auto 0;
-    color: #00b7c7;
+    color: #011842;
     background: 0 0;
-    border: 2px solid #00b7c7;
+    border: 2px solid #011842;
     border-radius: 3px;
     position: relative;
     overflow: hidden;
@@ -2355,7 +2355,7 @@ ul {
 #contact-section .form-wrapper .message-btn:focus,
 #contact-section .form-wrapper .message-btn:hover {
     color: #f2f2f2;
-    background: #00b7c7
+    background: #011842
 }
 
 #contact-section .form-wrapper #message-label {
@@ -2363,7 +2363,7 @@ ul {
 }
 
 #footer {
-    background: linear-gradient(45deg, #00b7c7 0, #4d0ce8 100%);
+    background: linear-gradient(45deg, #011842 0, #4d0ce8 100%);
     height: 200px;
     min-height: 100px;
     color: #f2f2f2
