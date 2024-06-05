@@ -1783,7 +1783,9 @@ ul.social-buttons li a:active {
 #codepen,
 #github,
 #pinterest,
-#spotify {
+#spotify,
+#trailhead,
+#trailblazer {
     /*border: 1px solid #fff !important;*/
 }
 
@@ -1794,6 +1796,15 @@ ul.social-buttons li a:active {
 #twitter:hover {
     background-color: #55ACEE;
 }
+
+#trailhead:hover {
+    background-color: #3B5998;
+}
+
+#trailblazer:hover {
+    background-color: #55ACEE;
+}
+
 
 #instagram:hover {
     background-color: #3f729b;
