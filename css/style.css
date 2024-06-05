@@ -1438,14 +1438,16 @@ a.resume-btn:active {
 
 #portfolio .links a i {
     position: relative;
-    color: #fff;
+    /*color: #fff;*/
+    color: #000000;
     font-size: 24px;
     margin: 0 13px;
     z-index: 100;
 }
 
 #portfolio .links a:hover i {
-    color: #fff;
+    /*color: #fff;*/
+    color: #000000;
 }
 
 #portfolio .links a i::after {
