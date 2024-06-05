@@ -17,7 +17,8 @@ body {
   font-family: $Whitney, $sans-serif-stack;
   height: 100%;
   color: $white;
-  background-color: $dark-grey;
+  //background-color: $dark-grey;
+  background-color: $white;
 }
 
 h1 {
@@ -69,10 +70,12 @@ ul {
     background-color: #0054c7
   }
   &:nth-of-type(odd) {
-    background-color: #5b5b5b;
+    //background-color: #5b5b5b;
+    background-color: #ffffff;
   }
   &:nth-of-type(even) {
-    background-color: $dark-grey;
+    //background-color: #5b5b5b;
+    background-color: #ffffff;
   }
   a {
     display: block;
