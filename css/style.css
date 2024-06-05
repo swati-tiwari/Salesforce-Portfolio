@@ -1438,16 +1438,14 @@ a.resume-btn:active {
 
 #portfolio .links a i {
     position: relative;
-    /*color: #fff;*/
-    color: #000000;
+    color: #fff;
     font-size: 24px;
     margin: 0 13px;
     z-index: 100;
 }
 
 #portfolio .links a:hover i {
-    /*color: #fff;*/
-    color: #000000;
+    color: #fff;
 }
 
 #portfolio .links a i::after {
@@ -1799,11 +1797,11 @@ ul.social-buttons li a:active {
     background-color: #55ACEE;
 }
 
-#trailhead:hover {
+#facebook:hover {
     background-color: #3B5998;
 }
 
-#trailblazer:hover {
+#twitter:hover {
     background-color: #55ACEE;
 }
 

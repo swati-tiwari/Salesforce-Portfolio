@@ -16,10 +16,8 @@ body {
   padding: 0;
   font-family: $Whitney, $sans-serif-stack;
   height: 100%;
-  //color: $white;
   color: $white;
-  //background-color: $dark-grey;
-  background-color: #2f69ac;
+  background-color: $dark-grey;
 }
 
 h1 {
@@ -40,8 +38,7 @@ p {
 
 a {
   text-decoration: none;
-  //color: $white;
-  color: black;
+  color: $white;
 }
 
 ul {
@@ -66,19 +63,16 @@ ul {
   min-height: 700px;
   padding: 0;
   overflow: hidden;
-  //color: $white;
-  color: $black;
+  color: $white;
   position: relative;
   &:first-of-type {
     background-color: #0054c7
   }
   &:nth-of-type(odd) {
-    //background-color: #5b5b5b;
-    background-color: #2f69ac;
+    background-color: #5b5b5b;
   }
   &:nth-of-type(even) {
-    //background-color: #5b5b5b;
-    background-color: #2f69ac;
+    background-color: $dark-grey;
   }
   a {
     display: block;
