@@ -16,7 +16,8 @@ body {
   padding: 0;
   font-family: $Whitney, $sans-serif-stack;
   height: 100%;
-  color: $white;
+  //color: $white;
+  color: $black;
   //background-color: $dark-grey;
   background-color: $white;
 }
@@ -39,7 +40,8 @@ p {
 
 a {
   text-decoration: none;
-  color: $white;
+  //color: $white;
+  color: black;
 }
 
 ul {
@@ -64,7 +66,8 @@ ul {
   min-height: 700px;
   padding: 0;
   overflow: hidden;
-  color: $white;
+  //color: $white;
+  color: $black;
   position: relative;
   &:first-of-type {
     background-color: #0054c7
