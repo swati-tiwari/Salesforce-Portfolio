@@ -26,11 +26,11 @@
   title: Experience
   number: 5
 
-- section: portfolio
-  title: Portfolio
-  number: 6
+#- section: portfolio
+  #title: Portfolio
+  #number: 6
 
 - section: contact
   title: Contact
-  number: 7
+  number: 6
 
