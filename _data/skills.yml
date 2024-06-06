@@ -76,7 +76,7 @@ salesforce-industry-specific:
 cross-functional:
   -  item: Tableau
   -  item: Slack
-  -  item: Power BI
+  -  item: PowerBI
   -  item: SalesLoft
   -  item: JIRA
   -  item: Talend
