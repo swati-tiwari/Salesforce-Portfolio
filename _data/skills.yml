@@ -31,10 +31,10 @@ knowledge:
   - item: TDD
 
 salesforce-functionality:
-  -  item: Apex/Visualforce, Aura & LWC
-  -  item: Apex Classes/Triggers
-  -  item: Apex Sync/Async Methods
-  -  item: Lightning Flow/Approval Process
+  -  item: Visualforce, Aura & LWC
+  -  item: Apex Classes & Triggers
+  -  item: Apex Sync & Async Methods
+  -  item: Lightning Flow & Approval Process
   -  item: Data Management & Migration
   -  item: Email Templates
   -  item: Communities & Sites
