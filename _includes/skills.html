@@ -16,7 +16,7 @@
             {% endfor %}
           </ul>
         </div>
-        
+
         <div class="flex-item design-wrapper">
           <h2 class="skills-heading">
             <span class="sprite design"></span>
@@ -27,31 +27,6 @@
             <li class="design-item"><img class="item-img" src="img/icons/{{design.item}}.png" alt="{{design.item}}"></li>
             {% endfor %}
           </ul>
-        </div>
-
-        <div class="flex-item check-wrapper">
-          <div class="tools-wrapper">
-            <h2 class="skills-heading">
-              <span class="sprite tools"></span>
-              <span>Clouds</span>
-            </h2>
-            <ul class="list">
-              {% for tool in site.data.skills.salesforce-clouds %}
-              <li class="list-item"><img class="item-svg" src="img/icons/checkmark.svg" alt="checkmark"/>{{tool.item}}</li>
-              {% endfor %}
-            </ul>
-          </div>
-          <div class="knowledge-wrapper">
-            <h2 class="skills-heading">
-              <span class="sprite knowledge"></span>
-              <span>Industry Specific</span>
-            </h2>
-            <ul class="list">
-              {% for thing in site.data.skills.salesforce-industry-specific %}
-              <li class="list-item"><img class="item-svg" src="img/icons/checkmark.svg" alt="checkmark"/>{{thing.item}}</li>
-              {% endfor %}
-            </ul>
-          </div>
         </div>
 
         <div class="flex-item check-wrapper">
