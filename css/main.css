@@ -136,13 +136,11 @@ ul {
 }
 
 .section:nth-of-type(odd) {
-    background-color: #ffffff
-    /*background-color: #5b5b5b*/
+    background-color: #5b5b5b
 }
 
 .section:nth-of-type(even) {
-    background-color: #a9aaee
-    /*background-color: #5b5b5b*/
+    background-color: #1b1b1b
 }
 
 .section a {
