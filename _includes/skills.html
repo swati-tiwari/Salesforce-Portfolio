@@ -28,24 +28,22 @@
             {% endfor %}
           </ul>
         </div>
-        </div>
 
-
-      <div class="skills-flex-wrapper">
-        <br/>
-        <div class="flex-item check-wrapper">
-          <div class="tools-wrapper">
-            <h2 class="skills-heading">
-              <span class="sprite tools"></span>
-              <span>Functionalities</span>
-            </h2>
-            <ul class="list">
-              {% for tool in site.data.skills.salesforce-functionality %}
-              <li class="list-item"><img class="item-svg" src="img/icons/checkmark.png" alt="checkmark"/>{{tool.item}}</li>
-              {% endfor %}
-            </ul>
+        <div class="skills-flex-wrapper">
+          <br/>
+          <div class="flex-item check-wrapper">
+            <div class="tools-wrapper">
+              <h2 class="skills-heading">
+                <span class="sprite tools"></span>
+                <span>Functionalities</span>
+              </h2>
+              <ul class="list">
+                {% for tool in site.data.skills.salesforce-functionality %}
+                <li class="list-item"><img class="item-svg" src="img/icons/checkmark.png" alt="checkmark"/>{{tool.item}}</li>
+                {% endfor %}
+              </ul>
+            </div>
           </div>
-        </div>
 
           <div class="flex-item check-wrapper">
             <div class="tools-wrapper">
@@ -86,6 +84,7 @@
               {% endfor %}
             </ul>
           </div>
+        </div>
         </div>
 
         <br/>
