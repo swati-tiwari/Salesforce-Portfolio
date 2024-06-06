@@ -11,7 +11,7 @@
             <span>Cross Functional Tools</span>
           </h2>
           <ul>
-            {% for dev in site.data.skills.cross-functional %}
+            {% for dev in site.data.skills.development%}
             <li class="dev-item">{{dev.item}}</li>
             {% endfor %}
           </ul>
@@ -20,10 +20,10 @@
         <div class="flex-item design-wrapper">
           <h2 class="skills-heading">
             <span class="sprite design"></span>
-            <span>Competencies</span>
+            <span>Cross Functional Tools</span>
           </h2>
           <ul>
-            {% for design in site.data.skills.salesforce-Competencies %}
+            {% for design in site.data.skills.cross-functional %}
             <li class="design-item"><img class="item-img" alt="{{design.item}}"></li>
             {% endfor %}
           </ul>
@@ -33,6 +33,33 @@
 
       <div class="skills-flex-wrapper">
         <br/>
+        <div class="flex-item check-wrapper">
+          <div class="tools-wrapper">
+            <h2 class="skills-heading">
+              <span class="sprite tools"></span>
+              <span>Functionalities</span>
+            </h2>
+            <ul class="list">
+              {% for tool in site.data.skills.salesforce-functionality %}
+              <li class="list-item"><img class="item-svg" src="img/icons/checkmark.png" alt="checkmark"/>{{tool.item}}</li>
+              {% endfor %}
+            </ul>
+          </div>
+
+          <div class="flex-item check-wrapper">
+            <div class="tools-wrapper">
+              <h2 class="skills-heading">
+                <span class="sprite tools"></span>
+                <span>Competencies</span>
+              </h2>
+              <ul class="list">
+                {% for tool in site.data.skills.salesforce-Competencies %}
+                <li class="list-item"><img class="item-svg" src="img/icons/checkmark.png" alt="checkmark"/>{{tool.item}}</li>
+                {% endfor %}
+              </ul>
+            </div>
+
+          </div>
         <div class="flex-item check-wrapper">
           <div class="tools-wrapper">
             <h2 class="skills-heading">
