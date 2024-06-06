@@ -18,13 +18,13 @@
   title: Skills
   number: 3
 
-- section: skillset
-  title: Skills
-  number: 4
+#- section: skillset
+#  title: Skills
+#  number: 4
 
 - section: experience
   title: Experience
-  number: 5
+  number: 4
 
 #- section: portfolio
   #title: Portfolio
@@ -32,5 +32,5 @@
 
 - section: contact
   title: Contact
-  number: 6
+  number: 5
 
