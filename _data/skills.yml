@@ -53,11 +53,32 @@ salesforce-Competencies:
   -  item: Project management
   
 
-salesforce-Competencies:
-  -  item: Apex/Visualforce, Aura & LWC
-  -  item: Apex Classes/Triggers
-  -  item: Apex Sync/Async Methods
-  -  item: Lightning Flow/Approval Process
-  -  item: Data Management & Migration
-  -  item: Email Templates
-  -  item: Communities & Sites  
+salesforce-clouds:
+  -  item: Financial Services Cloud (FSC)
+  -  item: Sales & Service Cloud
+  -  item: Insurance Cloud
+  -  item: Community & Commerce Cloud
+  -  item: Marketing & Experience Cloud
+  -  item: Einstein Analytics Cloud
+  -  item: Data Cloud (Salesforce CDP)
+
+salesforce-industry-specific:
+  -  item: CPQ & Billing
+  -  item: Salesforce Field Service
+  -  item: Email Studio
+  -  item: Mobile Studio
+  -  item: Loyalty Management
+  -  item: Pardot
+  -  item: CRM Analytics
+  -  item: Sales Enablement
+  -  item: Quip
+
+cross-functional:
+  -  item: Tableau
+  -  item: Slack
+  -  item: Power BI
+  -  item: SalesLoft
+  -  item: JIRA
+  -  item: Talend
+  -  item: Service Now
+

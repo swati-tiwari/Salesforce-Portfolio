@@ -20,6 +20,18 @@
         <div class="flex-item dev-wrapper">
           <h2 class="skills-heading">
             <span class="sprite dev"></span>
+            <span>Cross Functional Tools</span>
+          </h2>
+          <ul>
+            {% for dev in site.data.skills.cross-functional %}
+            <li class="dev-item">{{dev.item}}</li>
+            {% endfor %}
+          </ul>
+        </div>
+
+        <div class="flex-item dev-wrapper">
+          <h2 class="skills-heading">
+            <span class="sprite dev"></span>
             <span>Competencies</span>
           </h2>
           <ul>
@@ -45,10 +57,10 @@
           <div class="tools-wrapper">
             <h2 class="skills-heading">
               <span class="sprite tools"></span>
-              <span>Tools</span>
+              <span>Clouds</span>
             </h2>
             <ul class="list">
-              {% for tool in site.data.skills.tools %}
+              {% for tool in site.data.skills.salesforce-clouds %}
               <li class="list-item"><img class="item-svg" src="img/icons/checkmark.svg" alt="checkmark"/>{{tool.item}}</li>
               {% endfor %}
             </ul>
@@ -56,10 +68,35 @@
           <div class="knowledge-wrapper">
             <h2 class="skills-heading">
               <span class="sprite knowledge"></span>
-              <span>Knowledge</span>
+              <span>Industry Specific</span>
             </h2>
             <ul class="list">
-              {% for thing in site.data.skills.knowledge %}
+              {% for thing in site.data.skills.salesforce-industry-specific %}
+              <li class="list-item"><img class="item-svg" src="img/icons/checkmark.svg" alt="checkmark"/>{{thing.item}}</li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+
+        <div class="flex-item check-wrapper">
+          <div class="tools-wrapper">
+            <h2 class="skills-heading">
+              <span class="sprite tools"></span>
+              <span>Clouds</span>
+            </h2>
+            <ul class="list">
+              {% for tool in site.data.skills.salesforce-clouds %}
+              <li class="list-item"><img class="item-svg" src="img/icons/checkmark.svg" alt="checkmark"/>{{tool.item}}</li>
+              {% endfor %}
+            </ul>
+          </div>
+          <div class="knowledge-wrapper">
+            <h2 class="skills-heading">
+              <span class="sprite knowledge"></span>
+              <span>Industry Specific</span>
+            </h2>
+            <ul class="list">
+              {% for thing in site.data.skills.salesforce-industry-specific %}
               <li class="list-item"><img class="item-svg" src="img/icons/checkmark.svg" alt="checkmark"/>{{thing.item}}</li>
               {% endfor %}
             </ul>
