@@ -29,3 +29,35 @@ knowledge:
   - item: Usability
   - item: SEO
   - item: TDD
+
+salesforce-functionality:
+  -  item: Apex/Visualforce, Aura & LWC
+  -  item: Apex Classes/Triggers
+  -  item: Apex Sync/Async Methods
+  -  item: Lightning Flow/Approval Process
+  -  item: Data Management & Migration
+  -  item: Email Templates
+  -  item: Communities & Sites
+
+salesforce-Competencies:
+  -  item: Salesforce CRM administration
+  -  item: Workflow automation
+  -  item: Data management and architecture
+  -  item: Integration with external systems
+  -  item: Security model implementation
+  -  item: Release management and testing
+  -  item: Performance optimization
+  -  item: User training and support
+  -  item: Code review and quality assurance
+  -  item: Marketing automation integration
+  -  item: Project management
+  
+
+salesforce-Competencies:
+  -  item: Apex/Visualforce, Aura & LWC
+  -  item: Apex Classes/Triggers
+  -  item: Apex Sync/Async Methods
+  -  item: Lightning Flow/Approval Process
+  -  item: Data Management & Migration
+  -  item: Email Templates
+  -  item: Communities & Sites  

@@ -11,7 +11,19 @@
             <span>Development</span>
           </h2>
           <ul>
-            {% for dev in site.data.skills.development %}
+            {% for dev in site.data.skills.salesforce-functionality %}
+            <li class="dev-item">{{dev.item}}</li>
+            {% endfor %}
+          </ul>
+        </div>
+
+        <div class="flex-item dev-wrapper">
+          <h2 class="skills-heading">
+            <span class="sprite dev"></span>
+            <span>Competencies</span>
+          </h2>
+          <ul>
+            {% for dev in site.data.skills.salesforce-Competencies %}
             <li class="dev-item">{{dev.item}}</li>
             {% endfor %}
           </ul>
