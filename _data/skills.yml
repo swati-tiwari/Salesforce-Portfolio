@@ -1,9 +1,9 @@
-development:
+salesforce-product-expertise:
   - item: sales
   - item: service
   - item: marketing
   - item: financialservices
-  - item: marketing
+  - item: einstein
   - item: commerce
   - item: manufacturing
   - item: data
