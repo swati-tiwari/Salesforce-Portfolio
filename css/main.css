@@ -957,7 +957,7 @@ ul {
     line-height: 1.5;
     margin-top: 1em
     background-color: white;
-    color: black;
+    color: white;
 }
 
 @media only screen and (max-width:1000px) {

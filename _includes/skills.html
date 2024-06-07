@@ -3,8 +3,9 @@
     <div class="fade-in">
       <h1 class="section-heading">Skills</h1>
       <span class="divider"></span>
-      <div class="skills-flex-wrapper">
 
+      <div class="skills-flex-wrapper">
+        <!------ Item 1------->
         <div class="flex-item dev-wrapper">
           <h2 class="skills-heading">
             <span class="sprite dev"></span>
@@ -17,6 +18,7 @@
           </ul>
         </div>
 
+        <!------ Item 2------->
         <div class="flex-item design-wrapper">
           <h2 class="skills-heading">
             <span class="sprite design"></span>
@@ -24,105 +26,113 @@
           </h2>
           <ul>
             {% for design in site.data.skills.cross-functional %}
-            <li class="design-item"><img class="item-img" src="img/icons/{{design.item}}.jpeg" alt="{{design.item}}" title="{{design.item}}"></li>
+            <li class="design-item"><img class="item-img" src="img/icons/{{design.item}}.jpeg" alt="{{design.item}}"
+                title="{{design.item}}"></li>
             {% endfor %}
           </ul>
         </div>
 
-          <div class="flex-item check-wrapper">
-            <div class="tools-wrapper">
-              <h2 class="skills-heading">
-                <span class="sprite tools"></span>
-                <span>Functionalities</span>
-              </h2>
-              <ul class="list">
-                {% for tool in site.data.skills.salesforce-functionality %}
-                <li class="list-item"><img class="item-svg" src="img/icons/checkmark.png" alt="checkmark"/>{{tool.item}}</li>
-                {% endfor %}
-              </ul>
-            </div>
+        <!------ Item 3 ------->
+        <div class="flex-item check-wrapper">
+          <div class="tools-wrapper">
+            <h2 class="skills-heading">
+              <span class="sprite tools"></span>
+              <span>Functionalities</span>
+            </h2>
+            <ul class="list">
+              {% for tool in site.data.skills.salesforce-functionality %}
+              <li class="list-item"><img class="item-svg" src="img/icons/checkmark.png" alt="checkmark" />{{tool.item}}
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
 
-            <div class="knowledge-wrapper">
-              <h2 class="skills-heading">
-                <span class="sprite tools"></span>
-                <span>Competencies</span>
-              </h2>
-              <ul class="list">
-                {% for tool in site.data.skills.salesforce-Competencies %}
-                <li class="list-item"><img class="item-svg" src="img/icons/checkmark.png" alt="checkmark"/>{{tool.item}}</li>
-                {% endfor %}
-              </ul>
-            </div>
-          </div>
-          </div>
-          
-          <div class="skills-flex-wrapper">
-          <br/>
-            <div class="flex-item check-wrapper">
-              <div class="tools-wrapper">
-                <h2 class="skills-heading">
-                  <span class="sprite tools"></span>
-                  <span>Clouds</span>
-                </h2>
-                <ul class="list">
-                  {% for tool in site.data.skills.salesforce-clouds %}
-                  <li class="list-item"><img class="item-svg" src="img/icons/checkmark.png" alt="checkmark"/>{{tool.item}}</li>
-                  {% endfor %}
-                </ul>
-              </div>
-              <div class="knowledge-wrapper">
-                <h2 class="skills-heading">
-                  <span class="sprite knowledge"></span>
-                  <span>Industry Specific</span>
-                </h2>
-                <ul class="list">
-                  {% for thing in site.data.skills.salesforce-industry-specific %}
-                  <li class="list-item"><img class="item-svg" src="img/icons/checkmark.png" alt="checkmark"/>{{thing.item}}</li>
-                  {% endfor %}
-                </ul>
-              </div>
-            </div>
-            </div>
+        <!------ Item 4 ------->
+        <div class="flex-item knowledge-wrapper">
+          <h2 class="skills-heading">
+            <span class="sprite tools"></span>
+            <span>Competencies</span>
+          </h2>
+          <ul class="list">
+            {% for tool in site.data.skills.salesforce-Competencies %}
+            <li class="list-item"><img class="item-svg" src="img/icons/checkmark.png" alt="checkmark" />{{tool.item}}
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
 
-        <br/>
-        <div class="col-sm-offset-1 col-xs-12 col-sm-6 col-md-6 skills-section wp3">
-          <h3>Some technologies I've worked with:</h3>
-          <div class="row">
-              <div class=" col-sm-2 col-md-2 skill-icon"><img src="img/skills/html.png" id="html"></div>
-              <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/css.png" id="css"></div>
-              <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/sass.png" id="sass"></div>
-              <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/js.png" id="js"></div>
-              <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/java.png"></div>
-              <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/python.png" id="python"></div>
-              <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/jquery.png" id="jquery"></div>
-              <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/bootstrap.png" id="bootstrap"></div>
-              <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/foundation.png" id="foundation"></div>
-              <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/angular.png"></div>
-              <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/node.png" id="node"></div>
-              <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/mongodb.png"></div>
-              <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/github.png"></div>
-              <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/photoshop.png"></div>
-              <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/indesign.png"></div>
-              <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/jira.png"></div>
-              <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/linux.png"></div>
-              <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/tumblr.png"></div>
+      <br />
+      <div class="skills-flex-wrapper">
+        <div class="flex-item check-wrapper">
+          <div class="tools-wrapper">
+            <h2 class="skills-heading">
+              <span class="sprite tools"></span>
+              <span>Clouds</span>
+            </h2>
+            <ul class="list">
+              {% for tool in site.data.skills.salesforce-clouds %}
+              <li class="list-item"><img class="item-svg" src="img/icons/checkmark.png" alt="checkmark" />{{tool.item}}
+              </li>
+              {% endfor %}
+            </ul>
           </div>
+          <div class="knowledge-wrapper">
+            <h2 class="skills-heading">
+              <span class="sprite knowledge"></span>
+              <span>Industry Specific</span>
+            </h2>
+            <ul class="list">
+              {% for thing in site.data.skills.salesforce-industry-specific %}
+              <li class="list-item"><img class="item-svg" src="img/icons/checkmark.png" alt="checkmark" />{{thing.item}}
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <br />
+      <div class="col-sm-offset-1 col-xs-12 col-sm-6 col-md-6 skills-section wp3">
+        <h3>Some technologies I've worked with:</h3>
+        <div class="row">
+          <div class=" col-sm-2 col-md-2 skill-icon"><img src="img/skills/html.png" id="html"></div>
+          <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/css.png" id="css"></div>
+          <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/sass.png" id="sass"></div>
+          <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/js.png" id="js"></div>
+          <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/java.png"></div>
+          <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/python.png" id="python"></div>
+          <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/jquery.png" id="jquery"></div>
+          <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/bootstrap.png" id="bootstrap"></div>
+          <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/foundation.png" id="foundation">
+          </div>
+          <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/angular.png"></div>
+          <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/node.png" id="node"></div>
+          <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/mongodb.png"></div>
+          <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/github.png"></div>
+          <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/photoshop.png"></div>
+          <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/indesign.png"></div>
+          <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/jira.png"></div>
+          <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/linux.png"></div>
+          <div class="col-xs-3 col-sm-2 col-md-2 skill-icon"><img src="img/skills/tumblr.png"></div>
+        </div>
       </div>
       <div class="col-xs-12 col-sm-offset-1 col-sm-4 col-md-offset-1 col-md-3 employment wp3">
-          <div class="text-center places-worked">
-              <h3>Where I've Worked:</h3>
-              <a href="http://www.starry.com/" target="_blank">
-                  <img id="starry-logo" src="img/starry-logo.png" alt="Starry" />
-              </a>
-              <a href="http://www.mullenloweus.com/" target="_blank">
-                  <img id="mullen-logo" src="img/mullen-octopus.png" alt="Mullen" />
-              </a>
-              <a href="http://www.ccs.neu.edu/" target="_blank">
-                  <img id="nu-logo" src="img/nu-logo.png" alt="Northeastern" />
-              </a>
-          </div>
+        <div class="text-center places-worked">
+          <h3>Where I've Worked:</h3>
+          <a href="http://www.starry.com/" target="_blank">
+            <img id="starry-logo" src="img/starry-logo.png" alt="Starry" />
+          </a>
+          <a href="http://www.mullenloweus.com/" target="_blank">
+            <img id="mullen-logo" src="img/mullen-octopus.png" alt="Mullen" />
+          </a>
+          <a href="http://www.ccs.neu.edu/" target="_blank">
+            <img id="nu-logo" src="img/nu-logo.png" alt="Northeastern" />
+          </a>
+        </div>
       </div>
     </div>
-    </div>
+  </div>
   </div>
 </section>
