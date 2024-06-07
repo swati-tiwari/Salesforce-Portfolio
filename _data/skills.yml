@@ -1,34 +1,13 @@
 development:
-  - item: JavaScript
-  - item: HTML5
-  - item: CSS3
-  - item: Jekyll
-  - item: Python
-  - item: React
-  - item: Backbone
-  - item: Node.js
-  - item: Angular
-
-design:
-  - item: sketch
-  - item: adobe-photoshop
-  - item: adobe-indesign
-  - item: adobe-illustrator
-  - item: invision
-
-tools:
-  - item: Git + Github
-  - item: Command Line
-  - item: Chrome DevTools
-  - item: Grunt + Gulp
-  - item: Postman
-
-knowledge:
-  - item: CSS Detangling
-  - item: ECMAScript 6
-  - item: Usability
-  - item: SEO
-  - item: TDD
+  - item: sales
+  - item: service
+  - item: marketing
+  - item: financialservices
+  - item: marketing
+  - item: commerce
+  - item: manufacturing
+  - item: data
+  - item: analytics
 
 salesforce-functionality:
   -  item: Visualforce, Aura & LWC
@@ -38,8 +17,8 @@ salesforce-functionality:
   -  item: Data Management & Migration
   -  item: Email Templates
   -  item: Communities & Sites
-  -  item: Journey Builer
-  -  item: Einstein & Forecast
+  #-  item: Journey Builer
+  #-  item: Einstein & Forecast
 
 salesforce-Competencies:
   -  item: Salesforce CRM administration
@@ -49,8 +28,8 @@ salesforce-Competencies:
   -  item: Performance optimization
   -  item: User training and support
   -  item: Code review and quality assurance
-  -  item: Marketing automation & integration
-  -  item: Project management
+  #-  item: Marketing automation & integration
+  #-  item: Project management
   
 
 salesforce-clouds:
