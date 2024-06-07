@@ -38,18 +38,18 @@ salesforce-functionality:
   -  item: Data Management & Migration
   -  item: Email Templates
   -  item: Communities & Sites
+  -  item: Journey Builer
+  -  item: Einstein & Forecast
 
 salesforce-Competencies:
   -  item: Salesforce CRM administration
-  -  item: Workflow automation
-  -  item: Data management and architecture
   -  item: Integration with external systems
   -  item: Security model implementation
   -  item: Release management and testing
   -  item: Performance optimization
   -  item: User training and support
   -  item: Code review and quality assurance
-  -  item: Marketing automation integration
+  -  item: Marketing automation & integration
   -  item: Project management
   
 
