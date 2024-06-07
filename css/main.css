@@ -995,10 +995,10 @@ ul {
 
 #about-section .about-wrapper .headshot {
     display: inline-block;
-    width: 35%;
+    width: 25%;
     height: auto;
     border-radius: 50%;
-    margin-top: -100px;
+    margin-top: -150px;
     float: right;
     max-width: 450px
 }
