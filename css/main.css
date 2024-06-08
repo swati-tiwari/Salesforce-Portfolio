@@ -9836,7 +9836,7 @@ html {
   --speed: 150ms;
 }
 
-div {
+/*****div {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -9903,7 +9903,7 @@ body {
   justify-content: center;
   font-family: serif;
   background: radial-gradient(circle at 50% 35%, #334455, #000);
-}
+}*********/
 
 
   /******* Bootstrap.min*********/
