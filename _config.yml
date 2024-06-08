@@ -5,8 +5,8 @@ description: Design-minded, detail oriented software engineer passionate about c
 url: https://brittanychiang.com/
 baseurl: ""
 email: swatitiwari04@gmail.com
-cover: https://brittanychiang.com/v2/img/og.jpg
-logo: https://brittanychiang.com/v2/img/logo-black.png
+cover: img/og.jpg
+logo: img/icons/logo-black.png
 resume: resume.pdf
 coverletter: cover-letter.pdf
 social:
