@@ -1,0 +1,16 @@
+<section id="skills-section" class="section">
+  <div class="section-wrapper">
+    <div class="fade-in">
+      <h1 class="section-heading">Certifications</h1>
+      <span class="divider"></span>
+
+      <div class="skills-flex-wrapper">
+          <ul>
+            {% for dev in site.data.certification.salesforce-certifications%}
+            <li class="dev-item"><img class="item-img" src="img/icons/{{dev.item}}.svg" alt="{{dev.item}}"
+                title="{{dev.item}} cloud"></li>
+            {% endfor %}
+          </ul>
+    </div>
+  </div>
+</section>

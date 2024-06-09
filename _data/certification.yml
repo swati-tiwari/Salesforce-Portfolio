@@ -1,0 +1,77 @@
+salesforce-certifications:
+  - item: admin
+    title: Salesforce Certified Administrator
+
+  - item: appbuilder
+    title: Salesforce Certified Platform App Builder
+
+  - item: advanceadmin
+    title: Salesforce Certified Advanced Administrator
+ 
+   - item: pd1
+    title: Salesforce Certified Platform Developer 1
+ 
+   - item: pd2
+    title: Salesforce Certified Platform Developer 2
+ 
+   - item: sales
+    title: Salesforce Certified Sales Cloud Consultant
+ 
+   - item: cpq
+    title: Salesforce Certified CPQ Specialist
+ 
+   - item: datacloud
+    title: Salesforce Certified Data Cloud Consultant
+ 
+   - item: javascript
+    title: Salesforce Certified Javascript Developer 1
+ 
+
+copado-certifications:
+  - item: admin
+    title: Salesforce Certified Administrator
+
+  - item: appbuilder
+    title: Salesforce Certified Platform App Builder
+
+  - item: advanceadmin
+    title: Salesforce Certified Advanced Administrator
+ 
+   - item: pd1
+    title: Salesforce Certified Platform Developer 1
+ 
+   - item: pd2
+    title: Salesforce Certified Platform Developer 2
+
+product-certifications:
+  - item: admin
+    title: Salesforce Certified Administrator
+
+  - item: appbuilder
+    title: Salesforce Certified Platform App Builder
+
+  - item: advanceadmin
+    title: Salesforce Certified Advanced Administrator
+ 
+   - item: pd1
+    title: Salesforce Certified Platform Developer 1
+ 
+   - item: pd2
+    title: Salesforce Certified Platform Developer 2
+
+
+other-certifications:
+  - item: admin
+    title: Salesforce Certified Administrator
+
+  - item: appbuilder
+    title: Salesforce Certified Platform App Builder
+
+  - item: advanceadmin
+    title: Salesforce Certified Advanced Administrator
+ 
+   - item: pd1
+    title: Salesforce Certified Platform Developer 1
+ 
+   - item: pd2
+    title: Salesforce Certified Platform Developer 2
