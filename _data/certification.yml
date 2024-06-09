@@ -1,26 +1,26 @@
-  - img: admin
-    title: Salesforce Certified Administrator
+- img: admin
+  title: Salesforce Certified Administrator
 
-  - img: appbuilder
-    title: Salesforce Certified Platform App Builder
+- img: appbuilder
+  title: Salesforce Certified Platform App Builder
 
-  - img: advanceadmin
-    title: Salesforce Certified Advanced Administrator
+- img: advanceadmin
+  title: Salesforce Certified Advanced Administrator
  
-   - img: pd1
-    title: Salesforce Certified Platform Developer 1
+- img: pd1
+  title: Salesforce Certified Platform Developer 1
  
-   - img: pd2
-    title: Salesforce Certified Platform Developer 2
+- img: pd2
+  title: Salesforce Certified Platform Developer 2
  
-   - img: sales
-    title: Salesforce Certified Sales Cloud Consultant
+- img: sales
+  title: Salesforce Certified Sales Cloud Consultant
  
-   - img: cpq
-    title: Salesforce Certified CPQ Specialist
+- img: cpq
+  title: Salesforce Certified CPQ Specialist
  
-   - img: datacloud
-    title: Salesforce Certified Data Cloud Consultant
+- img: datacloud
+  title: Salesforce Certified Data Cloud Consultant
  
-   - img: javascript
-    title: Salesforce Certified Javascript Developer 1
+- img: javascript
+  title: Salesforce Certified Javascript Developer 1
