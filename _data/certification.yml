@@ -1,26 +1,35 @@
 - img: admin
   title: Salesforce Certified Administrator
+  url: https://trailhead.salesforce.com/en/credentials/administrator
 
 - img: appbuilder
   title: Salesforce Certified Platform App Builder
+  url: https://trailhead.salesforce.com/en/credentials/administrator
 
 - img: advanceadmin
   title: Salesforce Certified Advanced Administrator
- 
+  url: https://trailhead.salesforce.com/en/credentials/administrator
+
 - img: pd1
   title: Salesforce Certified Platform Developer 1
- 
+  url: https://trailhead.salesforce.com/en/credentials/administrator
+
 - img: pd2
   title: Salesforce Certified Platform Developer 2
- 
+  url: https://trailhead.salesforce.com/en/credentials/administrator
+
 - img: sales
   title: Salesforce Certified Sales Cloud Consultant
- 
+  url: https://trailhead.salesforce.com/en/credentials/administrator
+
 - img: cpq
   title: Salesforce Certified CPQ Specialist
- 
+  url: https://trailhead.salesforce.com/en/credentials/administrator
+
 - img: datacloud
   title: Salesforce Certified Data Cloud Consultant
- 
+  url: https://trailhead.salesforce.com/en/credentials/administrator
+
 - img: javascript
   title: Salesforce Certified Javascript Developer 1
+  url: https://trailhead.salesforce.com/en/credentials/administrator  
