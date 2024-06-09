@@ -1254,38 +1254,38 @@ ul {
   }
 }
 
-#certification-section .certification-row {
+#certification-section .service-row {
   width: 100%;
   height: 50%
 }
 
 @media only screen and (max-width:660px) {
-  #certification-section .certification-row {
+  #certification-section .service-row {
       height: auto
   }
 }
 
-#certification-section .certification-row:nth-of-type(odd) {
+#certification-section .service-row:nth-of-type(odd) {
   border-bottom: 1px solid rgba(242, 242, 242, .3)
 }
 
 @media only screen and (max-width:660px) {
-  #certification-section .certification-row:nth-of-type(odd) {
+  #certification-section .service-row:nth-of-type(odd) {
       border: none
   }
 }
 
-#certification-section .certification-row:nth-of-type(even) .certification-column {
+#certification-section .service-row:nth-of-type(even) .service-column {
   padding-top: 40px
 }
 
 @media only screen and (max-width:660px) {
-  #certification-section .certification-row:nth-of-type(even) .certification-column {
+  #certification-section .service-row:nth-of-type(even) .service-column {
       padding-top: 20px
   }
 }
 
-#certification-section .certification-row .certification-column {
+#certification-section .service-row .service-column {
   display: inline-block;
   vertical-align: top;
   width: 49%;
@@ -1296,7 +1296,7 @@ ul {
 }
 
 @media only screen and (max-width:660px) {
-  #certification-section .certification-row .certification-column {
+  #certification-section .service-row .service-column {
       display: block;
       width: 100%;
       border: none
@@ -1304,22 +1304,22 @@ ul {
 }
 
 @media only screen and (max-width:480px) {
-  #certification-section .certification-row .certification-column {
+  #certification-section .service-row .service-column {
       padding: 20px 0
   }
 }
 
-#certification-section .certification-row .certification-column:nth-of-type(even) {
+#certification-section .service-row .service-column:nth-of-type(even) {
   border-left: 1px solid rgba(242, 242, 242, .3)
 }
 
 @media only screen and (max-width:660px) {
-  #certification-section .certification-row .certification-column:nth-of-type(even) {
+  #certification-section .service-row .service-column:nth-of-type(even) {
       border: none
   }
 }
 
-#certification-section .certification-row .certification-column .certification-img {
+#certification-section .service-row .service-column .service-img {
   width: 40px;
   margin-right: 15px;
   display: inline-block;
@@ -1328,7 +1328,7 @@ ul {
   top: -5px
 }
 
-#certification-section .certification-row .certification-column .sprite {
+#certification-section .service-row .service-column .sprite {
   width: 40px;
   height: 40px;
   margin-right: 15px;
@@ -1342,32 +1342,31 @@ ul {
 }
 
 @media only screen and (max-width:400px) {
-  #certification-section .certification-row .certification-column .sprite {
+  #certification-section .service-row .service-column .sprite {
       width: 35px;
       height: 35px
   }
 }
 
-#certification-section .certification-row .certification-column .sprite.webdev {
+#certification-section .service-row .service-column .sprite.webdev {
   background-image: url(../img/icons/html.png)
 }
 
-#certification-section .certification-row .certification-column .sprite.ui {
+#certification-section .service-row .service-column .sprite.ui {
   background-image: url(../img/icons/pencil.png);
   background-size: 90%
 }
 
-#certification-section .certification-row .certification-column .sprite.xd {
+#certification-section .service-row .service-column .sprite.xd {
   background-image: url(../img/icons/ux-design.png)
 }
 
-#certification-section .#certification-section .-row .certification-column .sprite.xd {
-  -row .certification-column .sprite.wit {
+#certification-section .service-row .service-column .sprite.wit {
   background-image: url(../img/icons/internet.png);
   background-size: 90%
 }
 
-#certification-section .certification-row .certification-column .certification-heading {
+#certification-section .service-row .service-column .service-heading {
   font-family: Gotham, Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   margin: 0 0 30px;
@@ -1376,24 +1375,24 @@ ul {
 }
 
 @media only screen and (max-width:1170px) {
-  #certification-section .certification-row .certification-column .certification-heading {
+  #certification-section .service-row .service-column .service-heading {
       font-size: 2vw
   }
 }
 
 @media only screen and (max-width:660px) {
-  #certification-section .certification-row .certification-column .certification-heading {
+  #certification-section .service-row .service-column .service-heading {
       font-size: 4vw
   }
 }
 
 @media only screen and (max-width:440px) {
-  #certification-section .certification-row .certification-column .certification-heading {
+  #certification-section .service-row .service-column .service-heading {
       font-size: 16px
   }
 }
 
-#certification-section .certification-row .certification-column .certification-text {
+#certification-section .service-row .service-column .service-text {
   font-size: 1.1em;
   margin-bottom: 20px;
   white-space: initial
@@ -1406,9 +1405,6 @@ ul {
     display: flex
 }
 
-#skillset-section{
-
-}
 
 #skills-section .skills-flex-wrapper {
     font: 100 30px Whitney;

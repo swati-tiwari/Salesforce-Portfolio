@@ -30,18 +30,21 @@
   company: Tata Consultancy Services
   url: https://www.tcs.com/
   description: In my role as a QAD Developer and Techno-Functional Consultant, I spearheaded the migration of outdated versions of MFG/PRO to the eb2 version, unifying business processes onto a common platform. This encompassed implementing MFGPRO across Distribution, Manufacturing, and Finance modules to seamlessly integrate with external systems. My responsibilities involved conducting QAD Development using Progress 4GL language, collaborating with clients to understand requirements and provide estimates for Work Order completion. Additionally, I developed workflows, Test Cases, and conducted Unit Testing, along with participating in End-to-End testing to identify and rectify issues while managing Exception Handling processes. I collaborated with engineering teams to assess system loads, devise improvement strategies, and address root causes of recurring issues. Moreover, I managed various third-party vendor applications such as Esker, FacturaYa, GoSocket, and Cyberquery, while also conducting Smoke Testing post-upgrade and generating client reports using Cyberquery and BI Solution for QAD.
+  sprite: industry
   date: May 2017 - Jul 2018
 
 - position: Associate System Engineer
   company: Tata Consultancy Services
   url: https://www.tcs.com/
   description: I completed intensive training on QAD, MFGPRO, and Progress 4GL, focusing on Manufacturing, Distribution, and Finance modules. The program provided programming techniques for robust module development, emphasizing understanding via test case creation and execution. I refined skills in inquiry report development using Progress 4GL, ensuring a deep understanding of programming concepts applied in QAD and MFGPRO systems.
+  sprite: industry
   date: Dec 2016 - May 2017
   
 - position: Associate System Engineer | ILP
   company: Tata Consultancy Services
   url: https://www.tcs.com/careers/india/xplore
   description: During the ILP Training program focused on Enstol Oracle Apps, I underwent a comprehensive curriculum covering both personality development and technical skills enhancement. This included learning key programming languages and technologies such as Java, UNIX, Oracle, SQL, and PLSQL, providing a solid foundation for professional growth. As part of the training, I applied my newfound skills to develop a customized Oracle App tailored for Hotel Management, gaining practical experience and deepening my understanding of software development within the Oracle ecosystem.
+  sprite: industry
   date: Sept 2016 - Dec 2016
 
 
