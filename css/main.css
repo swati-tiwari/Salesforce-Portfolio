@@ -1231,6 +1231,7 @@ ul {
   position: relative
 }
 
+/**** Commented as we do not need an underline after image
 #certification-section a:after {
   content: '';
   width: 100%;
@@ -1241,6 +1242,7 @@ ul {
   border-style: solid;
   border-color: #cbcbcb
 }
+*/
 
 #certification-section .certification-wrapper {
   width: 100%;
