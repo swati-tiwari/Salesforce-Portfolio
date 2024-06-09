@@ -1,4 +1,4 @@
-<section id="skills-section" class="section">
+<!--section id="experience-section" class="section">
   <div class="section-wrapper">
     <div class="fade-in">
       <h1 class="section-heading">Certifications</h1>
@@ -12,5 +12,19 @@
             {% endfor %}
           </ul>
     </div>
+  </div>
+</section-->
+
+<section id="certification-section" class="section">
+  <div class="section-wrapper">
+    <h1 class="section-heading">Certifications</h1>
+    <span class="divider"></span>
+
+    <ul class="soc">
+      {% for link in site.data.certification %}
+      <li class="soc-item"><a href="{{link.url}}" target="_blank" class="icon" title="{{link.title}}">
+          <img src="img/icons/{{link.title}}.svg" alt="{{link.title}}"></a></li>
+      {% endfor %}
+    </ul>
   </div>
 </section>
