@@ -293,6 +293,36 @@ ul {
     }
 }
 
+/************ Certification Sectioon ***************/
+
+#certification-section .bg {
+  background-image: url(../img/bg-certification/certification-xl.jpg)
+}
+
+@media only screen and (max-width:1170px) {
+  #certification-section .bg {
+      background-image: url(../img/bg-certification/certification-lg.jpg)
+  }
+}
+
+@media only screen and (max-width:900px) {
+  #certification-section .bg {
+      background-image: url(../img/bg-certification/certification-md.jpg)
+  }
+}
+
+@media only screen and (max-width:660px) {
+  #certification-section .bg {
+      background-image: url(../img/bg-certification/certification-sm.jpg)
+  }
+}
+
+@media only screen and (max-width:480px) {
+  #certification-section .bg {
+      background-image: url(../img/bg-certification/certification-xs.jpg)
+  }
+}
+
 #experience-section .bg {
     background-image: url(../img/bg-experience/experience-xl.jpg)
 }
@@ -1193,6 +1223,179 @@ ul {
     font-size: 1.1em;
     margin-bottom: 20px;
     white-space: initial
+}
+
+/************ Certification ******************/
+#certification-section a {
+  display: inline-block;
+  position: relative
+}
+
+#certification-section a:after {
+  content: '';
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 2px;
+  border-width: 0 0 .5px;
+  border-style: solid;
+  border-color: #cbcbcb
+}
+
+#certification-section .certification-wrapper {
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px
+}
+
+@media only screen and (max-width:1000px) {
+  #certification-section .certification-wrapper {
+      padding: 0
+  }
+}
+
+#certification-section .service-row {
+  width: 100%;
+  height: 50%
+}
+
+@media only screen and (max-width:660px) {
+  #certification-section .service-row {
+      height: auto
+  }
+}
+
+#certification-section .service-row:nth-of-type(odd) {
+  border-bottom: 1px solid rgba(242, 242, 242, .3)
+}
+
+@media only screen and (max-width:660px) {
+  #certification-section .service-row:nth-of-type(odd) {
+      border: none
+  }
+}
+
+#certification-section .service-row:nth-of-type(even) .service-column {
+  padding-top: 40px
+}
+
+@media only screen and (max-width:660px) {
+  #certification-section .service-row:nth-of-type(even) .service-column {
+      padding-top: 20px
+  }
+}
+
+#certification-section .service-row .service-column {
+  display: inline-block;
+  vertical-align: top;
+  width: 49%;
+  height: 100%;
+  padding: 20px;
+  overflow: hidden;
+  white-space: nowrap
+}
+
+@media only screen and (max-width:660px) {
+  #certification-section .service-row .service-column {
+      display: block;
+      width: 100%;
+      border: none
+  }
+}
+
+@media only screen and (max-width:480px) {
+  #certification-section .service-row .service-column {
+      padding: 20px 0
+  }
+}
+
+#certification-section .service-row .service-column:nth-of-type(even) {
+  border-left: 1px solid rgba(242, 242, 242, .3)
+}
+
+@media only screen and (max-width:660px) {
+  #certification-section .service-row .service-column:nth-of-type(even) {
+      border: none
+  }
+}
+
+#certification-section .service-row .service-column .service-img {
+  width: 40px;
+  margin-right: 15px;
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  top: -5px
+}
+
+#certification-section .service-row .service-column .sprite {
+  width: 40px;
+  height: 40px;
+  margin-right: 15px;
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  top: -3px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100%
+}
+
+@media only screen and (max-width:400px) {
+  #certification-section .service-row .service-column .sprite {
+      width: 35px;
+      height: 35px
+  }
+}
+
+#certification-section .service-row .service-column .sprite.webdev {
+  background-image: url(../img/icons/html.png)
+}
+
+#certification-section .service-row .service-column .sprite.ui {
+  background-image: url(../img/icons/pencil.png);
+  background-size: 90%
+}
+
+#certification-section .service-row .service-column .sprite.xd {
+  background-image: url(../img/icons/ux-design.png)
+}
+
+#certification-section .service-row .service-column .sprite.wit {
+  background-image: url(../img/icons/internet.png);
+  background-size: 90%
+}
+
+#certification-section .service-row .service-column .service-heading {
+  font-family: Gotham, Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  margin: 0 0 30px;
+  font-size: 20px;
+  display: inline-block
+}
+
+@media only screen and (max-width:1170px) {
+  #certification-section .service-row .service-column .service-heading {
+      font-size: 2vw
+  }
+}
+
+@media only screen and (max-width:660px) {
+  #certification-section .service-row .service-column .service-heading {
+      font-size: 4vw
+  }
+}
+
+@media only screen and (max-width:440px) {
+  #certification-section .service-row .service-column .service-heading {
+      font-size: 16px
+  }
+}
+
+#certification-section .service-row .service-column .service-text {
+  font-size: 1.1em;
+  margin-bottom: 20px;
+  white-space: initial
 }
 
 #skills-section .check-wrapper,
