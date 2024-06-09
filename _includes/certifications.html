@@ -26,8 +26,8 @@
 
     <ul class="soc">
       {% for link in site.data.certification %}
-      <li class="soc-item"><a href="{{link.url}}" target="_blank" class="icon" title="{{link.title}}">
-          <img src="img/certifications/{{link.img}}.png" alt="{{link.title}}"></a></li>
+      <a href="{{link.url}}" target="_blank" class="icon" title="{{link.title}}">
+          <img src="img/certifications/{{link.img}}.png" alt="{{link.title}}"></a>
       {% endfor %}
     </ul>
   </div>
