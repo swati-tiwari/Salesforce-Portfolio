@@ -1,4 +1,3 @@
-salesforce-certifications:
   - img: admin
     title: Salesforce Certified Administrator
 
@@ -25,53 +24,3 @@ salesforce-certifications:
  
    - img: javascript
     title: Salesforce Certified Javascript Developer 1
- 
-
-copado-certifications:
-  - img: admin
-    title: Salesforce Certified Administrator
-
-  - img: appbuilder
-    title: Salesforce Certified Platform App Builder
-
-  - img: advanceadmin
-    title: Salesforce Certified Advanced Administrator
- 
-   - img: pd1
-    title: Salesforce Certified Platform Developer 1
- 
-   - img: pd2
-    title: Salesforce Certified Platform Developer 2
-
-product-certifications:
-  - img: admin
-    title: Salesforce Certified Administrator
-
-  - img: appbuilder
-    title: Salesforce Certified Platform App Builder
-
-  - img: advanceadmin
-    title: Salesforce Certified Advanced Administrator
- 
-   - img: pd1
-    title: Salesforce Certified Platform Developer 1
- 
-   - img: pd2
-    title: Salesforce Certified Platform Developer 2
-
-
-other-certifications:
-  - img: admin
-    title: Salesforce Certified Administrator
-
-  - img: appbuilder
-    title: Salesforce Certified Platform App Builder
-
-  - img: advanceadmin
-    title: Salesforce Certified Advanced Administrator
- 
-   - img: pd1
-    title: Salesforce Certified Platform Developer 1
- 
-   - img: pd2
-    title: Salesforce Certified Platform Developer 2
