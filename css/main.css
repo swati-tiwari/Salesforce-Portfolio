@@ -10038,6 +10038,11 @@ html {
   --speed: 150ms;
 }
 
+.cert {
+  padding-right: 20px;
+  padding-top: 10px;
+}
+
 
 
 /*****div {
