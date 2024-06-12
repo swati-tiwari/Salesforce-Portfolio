@@ -1,32 +1,71 @@
 - img: associate
   title: Salesforce Certified Associate
+  url: https://trailhead.salesforce.com/en/credentials/associate
 
 - img: aiassociate
-  title: Salesforce Certified AI Associate  
+  title: Salesforce Certified AI Associate
+  url: https://trailhead.salesforce.com/en/credentials/aiassociate
 
 - img: admin
   title: Salesforce Certified Administrator
+  url: https://trailhead.salesforce.com/en/credentials/administrator
 
 - img: appbuilder
   title: Salesforce Certified Platform App Builder
+  url: https://trailhead.salesforce.com/en/credentials/platformappbuilder
 
 - img: advanceadmin
   title: Salesforce Certified Advanced Administrator
+  url: https://trailhead.salesforce.com/en/credentials/advancedadministrator
+
+- img: ba
+  title: Salesforce Certified Business Analyst
+  url: https://trailhead.salesforce.com/en/credentials/businessanalyst
  
 - img: pd1
   title: Salesforce Certified Platform Developer 1
+  url: https://trailhead.salesforce.com/en/credentials/platformdeveloperi
  
 - img: pd2
   title: Salesforce Certified Platform Developer 2
- 
+  url: https://trailhead.salesforce.com/en/credentials/platformdeveloperii
+
 - img: sales
   title: Salesforce Certified Sales Cloud Consultant
+  url:https://trailhead.salesforce.com/en/credentials/salescloudconsultant
  
 - img: cpq
   title: Salesforce Certified CPQ Specialist
+  url: https://trailhead.salesforce.com/en/credentials/cpqspecialist
  
 - img: datacloud
   title: Salesforce Certified Data Cloud Consultant
+  url: https://trailhead.salesforce.com/en/credentials/datacloudconsultant
  
 - img: javascript
   title: Salesforce Certified Javascript Developer 1
+  url: https://trailhead.salesforce.com/en/credentials/javascriptdeveloperi
+
+- img: fund1
+  title: Copado Fundamentals I Metadata Pipeline Certified
+  url: https://success.copado.com/s/achievement-detail-standard?ltui__urlRecordId=a820N000000H7DbQAK
+ 
+- img: fund2
+  title: Copado Fundamentals II Metadata Pipeline Certified
+  url: https://success.copado.com/s/achievement-detail-standard?ltui__urlRecordId=a820N000000H7GQQA0
+ 
+- img: essentials
+  title: Copado Certified Essentials +
+  url: https://success.copado.com/s/achievement-detail-standard?ltui__urlRecordId=a825p000000bmCOAAY
+ 
+- img: extensionbuilder
+  title: Copado Certified Extension Builder
+  url: https://success.copado.com/s/achievement-detail-standard?ltui__urlRecordId=a825p000000L6paAAC
+ 
+- img: robotic
+  title: Copado Robotic Testing Certified 
+  url: https://success.copado.com/s/achievement-detail-standard?ltui__urlRecordId=a825p000000wkWdAAI
+
+- img: consultant
+  title: Copado Certified Consultant
+  url: https://success.copado.com/s/achievement-detail-standard?ltui__urlRecordId=a820N000000H7OOQA0

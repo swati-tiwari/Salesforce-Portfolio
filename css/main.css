@@ -10043,6 +10043,10 @@ html {
   padding-top: 10px;
 }
 
+.cert:hover {
+  transform: scale(1.1);
+}
+
 
 
 /*****div {
