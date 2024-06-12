@@ -69,3 +69,15 @@
 - img: consultant
   title: Copado Certified Consultant
   url: https://success.copado.com/s/achievement-detail-standard?ltui__urlRecordId=a820N000000H7OOQA0
+
+- img: coredesigner
+  title: Dataiku Certified Core Designer
+  url: https://academy.dataiku.com/path/core-designer
+ 
+- img: advanceddesigner
+  title: Dataiku Certified Advanced Core Designer 
+  url: https://academy.dataiku.com/path/advanced-designer
+
+- img: ml
+  title: Dataiku Certified ML Practioner
+  url: https://academy.dataiku.com/path/ml-practitioner
