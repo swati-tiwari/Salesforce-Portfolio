@@ -1,0 +1,35 @@
+<!--section id="experience-section" class="section">
+  <div class="section-wrapper">
+    <div class="fade-in">
+      <h1 class="section-heading">Certifications</h1>
+      <span class="divider"></span>
+
+      <div class="skills-flex-wrapper">
+          <ul>
+            {% for item in site.data.certification%}
+            <li class="dev-item"><img class="item-img" src="img/icons/{{item.img}}.png" alt="{{item.img}}"
+                title="{{item.title}}"></li>
+            {% endfor %}
+          </ul>
+    </div>
+  </div>
+</section-->
+
+<section id="certification-section" class="section gap">
+  <div class="bg" data-anchor-target="#certification-section"
+    data-bottom-top="transform: translate3d(0px, -150px, 0px);"
+    data-top-bottom="transform: translate3d(0px, 150px, 0px);"></div>
+  <div class="overlay-wrapper">
+    <div class="fade-in">
+      <h1 class="section-heading">Certifications</h1>
+      <span class="divider"></span>
+
+      <ul class="soc">
+        {% for link in site.data.certification %}
+        <a href="{{link.url}}" target="_blank" class="icon" title="{{link.title}}">
+          <img class="cert" src="img/certifications/{{link.img}}.png" alt="{{link.title}}"></a>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>

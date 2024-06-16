@@ -1,26 +1,28 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded, detail oriented software engineer passionate about combining beautiful code with beautiful design.
-url: http://brittanychiang.com/
-baseurl: "/v2"
-email: brittany.chiang@gmail.com
-cover: http://brittanychiang.com/v2/img/og.jpg
-logo: http://brittanychiang.com/v2/img/logo-black.png
-resume: http://brittanychiang.com/v2/resume.pdf
+name: Swati Tiwari
+title: Swati Tiwari | Salesforce Developer & Consultant
+description: Design-minded, detail oriented software engineer passionate about combining beautiful code for the clients.
+url: https://brittanychiang.com/
+baseurl: ""
+email: swatitiwari04@gmail.com
+cover: img/og.jpg
+logo: img/icons/logo-black.png
+resume: Resume.pdf
+coverletter: cover-letter.pdf
+skillset: Skillset.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:swatitiwari04@gmail.com
   - title: twitter
-    url: https://twitter.com/bchiang7
-  - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
+    url: https://twitter.com/swati_tiwari
+  - title: trailhead
+    url: https://trailblazer.me/swatitiwarii
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/swati-tiwari
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/swatitiwari09
+  - title: trailblazer
+    url: https://www.linkedin.com/in/swatitiwari09
 
 # Build settings
 markdown: kramdown

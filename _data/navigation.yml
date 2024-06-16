@@ -10,17 +10,25 @@
   title: What I Do
   number: 2
 
+#- section: passion
+ # title: Passion
+ # number: 3
+
 - section: skills
   title: Skills
   number: 3
 
-- section: experience
-  title: Experience
+- section: certifications
+  title: Certifications
   number: 4
 
-- section: portfolio
-  title: Portfolio
+- section: experience
+  title: Experience
   number: 5
+
+#- section: portfolio
+  #title: Portfolio
+  #number: 6
 
 - section: contact
   title: Contact

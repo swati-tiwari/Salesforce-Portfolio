@@ -2,11 +2,37 @@
   <div class="section-wrapper">
     <ul class="soc">
       {% for link in site.social %}
-      <li class="soc-item"><a href="{{link.url}}" target="_blank" class="icon {{link.title}}" title="{{link.title}}"><img src="img/icons/{{link.title}}.svg" alt="{{link.title}}"></a></li>
+      <li class="soc-item"><a href="{{link.url}}" target="_blank" class="icon" title="{{link.title}}">
+          <img src="img/icons/{{link.title}}.svg" alt="{{link.title}}"></a></li>
       {% endfor %}
+
+      <!---- Adding to go top page ---->
+      <div class="page-scroll">
+        <a id="to-top" class="page-scroll" href="#page-top">
+          <img id="rocket" src="img/icons/rocket12.png">
+        </a>
+        <p id="to-top-copy" style="opacity: 100;">Beam me up, Scotty!</p>
+      </div>
+
+      <!--- Old Portfolio Links-->
+      <!--- Added Old Project Portfolio -->
+      <div>
+        <button class="portbutton">
+          <span class="sr-only portbutton:hov">Click to time travel</span>
+          <img loading="lazy" width="100" class="imgport"
+            height="86" decoding="async" data-nimg="1" style="color:transparent"
+            srcset="https://brittanychiang.com//_next/image?url=%2Fimages%2Ftardis%2Frotate.gif&amp;w=128&amp;q=75 1x, https://brittanychiang.com//_next/image?url=%2Fimages%2Ftardis%2Frotate.gif&amp;w=256&amp;q=75 2x"
+            src="https://brittanychiang.com//_next/image?url=%2Fimages%2Ftardis%2Frotate.gif&amp;w=256&amp;q=75">
+        </button>
+      </div>
+
+      
+      <!---- Copyright Line -->
+      <div class="copyright-wrapper center">
+        <p>Thank you for checking out my Portfolio.</p>
+        <p>Swati Tiwari 2024</p>
+      </div>
+
     </ul>
-    <div class="copyright-wrapper center">
-      <p>&copy;&nbsp;&nbsp;{{site.name}} 2017</p>
-    </div>
   </div>
 </section>
