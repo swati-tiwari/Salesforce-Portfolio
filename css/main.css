@@ -10047,6 +10047,20 @@ html {
   transform: scale(1.1);
 }
 
+.imgport{
+  height: auto;
+  /* border: black; */
+  background-color: transparent;
+}
+
+.portbutton {
+  /**hover:-text-teal-300 absolute bottom-0 right-0 inline-flex items-center px-2 py-4 font-medium text-slate-400 hover:-translate-y-2 focus-visible:text-teal-300;
+  **/
+  background-color: transparent;
+  border: none;
+  display: inline-flex;
+  align-items: center;
+}
 
 
 /*****div {
