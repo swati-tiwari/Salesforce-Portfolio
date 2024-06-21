@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://swatitiwari.co.in"
+    "url": "https://swati-tiwari.github.io/Salesforce-Portfolio/"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
