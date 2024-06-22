@@ -19770,7 +19770,6 @@ button.close {
 
 /* Modal Content/Box */
 .oldmodal-content{
-  background-color: transparent;
   margin: 15% auto; /* 15% from the top and centered */
   padding: 20px;
   width: 80%; /* Could be more or less, depending on screen size */
@@ -19886,3 +19885,32 @@ circle-body {
 .DialogContent[data-state=closed],.DialogOverlay[data-state=closed] {
   animation: fadeOut .5s cubic-bezier(.4,0,1,1)
 }
+
+.grid {
+  display: grid
+}
+
+.inline-grid {
+  display: inline-grid;
+}
+
+@media (min-width: 768px) {
+  .md\:grid-cols-2 {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.gap-2 {
+  gap: .5rem;
+}
+
+.grid-cols-1 {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+
+menu, ol, ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
