@@ -125,7 +125,7 @@ var modal = document.getElementById("oldPortfolioModal");
 var btn = document.getElementById("oldButton");
 
 // Get the <span> element that closes the modal
-var span = document.getElementsByClassName("oldclose")[0];
+var span = document.getElementById("oldclose");
 
 // When the user clicks on the button, open the modal
 btn.onclick = function() {
