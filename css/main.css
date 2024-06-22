@@ -19770,10 +19770,9 @@ button.close {
 
 /* Modal Content/Box */
 .oldmodal-content{
-  background-color: #fefefe;
+  background-color: transparent;
   margin: 15% auto; /* 15% from the top and centered */
   padding: 20px;
-  border: 1px solid #888;
   width: 80%; /* Could be more or less, depending on screen size */
 }
 
@@ -19878,4 +19877,12 @@ circle-body {
   .star-wars-skew {
       transform:rotateX(25deg) translateZ(100px) translateY(0)
   }
+}
+
+.DialogContent[data-state=open],.DialogOverlay[data-state=open] {
+  animation: fadeIn .7s cubic-bezier(0,0,.2,1);
+}
+
+.DialogContent[data-state=closed],.DialogOverlay[data-state=closed] {
+  animation: fadeOut .5s cubic-bezier(.4,0,1,1)
 }
