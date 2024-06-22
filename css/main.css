@@ -19926,14 +19926,6 @@ circle-body {
   grid-template-columns: repeat(1, minmax(0, 1fr));
 }
 
-menu,
-ol,
-ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
 /***************** Added portfolio links css *************/
 /*
 ! tailwindcss v3.3.2 | MIT License | https://tailwindcss.com
@@ -20119,9 +20111,9 @@ legend {
   padding: 0
 }
 
-menu,
-ol,
-ul {
+port-menu,
+port-ol,
+port-ul {
   list-style: none;
   margin: 0;
   padding: 0
