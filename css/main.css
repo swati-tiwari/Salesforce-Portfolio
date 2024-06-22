@@ -19755,7 +19755,7 @@ button.close {
 
 /** OLD Portfolio CSS*****/
 /* The Modal (background) */
-.oldmodal {
+.oldmodal{
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
@@ -19769,7 +19769,7 @@ button.close {
 }
 
 /* Modal Content/Box */
-.oldmodal-content {
+.oldmodal-content{
   background-color: #fefefe;
   margin: 15% auto; /* 15% from the top and centered */
   padding: 20px;
@@ -19778,7 +19778,7 @@ button.close {
 }
 
 /* The Close Button */
-.oldclose {
+.oldclose{
   color: #aaa;
   float: right;
   font-size: 28px;
