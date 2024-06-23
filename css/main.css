@@ -19814,8 +19814,8 @@ circle {
   left: 50%;
   transform: translate(var(--x, -50%), var(--y, -50%)) rotate(0deg);
   font-size: 20vmin;
-  width: 3em;
-  height: 3em;
+  width: 3.4em;
+  height: 3.4em;
   border-radius: 90% 95% 85% 105%;
   background: #0f0;
   mix-blend-mode: screen;
@@ -21318,13 +21318,13 @@ video {
     background: radial-gradient(circle at 50% 35%, #345, #000)
   }
 
-  .portal-inner {
+  .circle {
     transform: translateY(170px)
   }
 }
 
 @media screen and (max-width: 360px) {
-  .portal-inner {
+  .circle {
     transform: translateY(70px)
   }
 }
