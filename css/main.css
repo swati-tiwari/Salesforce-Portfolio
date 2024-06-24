@@ -21991,7 +21991,7 @@ video {
 	line-height: 21px;
 	text-align: left;
 	position: absolute;
-	left: 50%;
+	left: 90%;
 	transform: translate(-50%, -50%);
 		-o-transform: translate(-50%, -50%);
 		-ms-transform: translate(-50%, -50%);
@@ -22002,7 +22002,7 @@ video {
 	font-weight: 900;
 	font-size:10px;
 	color: rgba(255,255,255,0.98);
-	letter-spacing: 0.2em;
+	letter-spacing: 0.4em;
   display: block;
   float: left;
 }
