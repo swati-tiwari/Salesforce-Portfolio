@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
 Sitemap: https://swatitiwari.co.in/sitemap.xml
