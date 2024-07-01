@@ -6,7 +6,7 @@ url: https://swatitiwari.co.in/
 baseurl: "https://swatitiwari.co.in"
 email: swatitiwari04@gmail.com
 cover: img/og.jpg
-logo: img/icons/logo-black.png
+logo: /img/swati-tiwari-logo.jpg
 resume: Resume.pdf
 coverletter: cover-letter.pdf
 skillset: Skillset.pdf
